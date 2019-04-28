@@ -324,9 +324,9 @@
 
 /* 滚动广告 */
 /* 先隐藏，后期用 js 实现轮播图 */
-.ad {
+/* .ad {
     display: none;
-}
+} */
 
 .feature {
     width: 90%;
